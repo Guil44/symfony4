@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-color: blue;
+    color: white;
+}
+
+h2 {
+    color : pink;
+}
+
+$theme-colors: (
+  "primary": #0074d9,
+  "danger": #ff4136
+);
+
+$theme-colors: (
+  "custom-color": #900
+);
